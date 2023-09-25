@@ -23,4 +23,18 @@ if (score){
     console.log("Score wird als truthy ausgewertet.")
 }
 
+//
+
+let username : string = "";
+
+if (username){
+    console.log("Username is verfügbar")
+}
+else {
+    console.log("Username wird als falsy ausgewertet.")
+}
+
+let isAdmin : boolean = false;
+
+
 
