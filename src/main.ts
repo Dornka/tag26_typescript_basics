@@ -36,5 +36,3 @@ else {
 
 let isAdmin : boolean = false;
 
-
-
